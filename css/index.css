@@ -11,6 +11,9 @@ h2{
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
 @import url('https://fonts.googleapis.com/css?family=Vollkorn');
 
+@media only screen and (min-width:500px){
+
+
 nav{
   position:absolute;
   top:0;
@@ -31,6 +34,10 @@ ul {
   width:84%;
   margin:0 auto;
   /*border:solid thin red;*/
+}
+
+.social-alt{
+  display:none;
 }
 
 .nav-1{
@@ -156,5 +163,6 @@ nav h1{
     -ms-transform: rotate(-90deg); /* IE 9 */
     -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
     transform: rotate(-90deg);
+}
 
 }
