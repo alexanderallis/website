@@ -1,0 +1,38 @@
+.section_1{
+  margin-left:20%;
+  height:40vh;
+  width:100%;
+  border:solid thin red;
+}
+
+.section_1 img{
+  height: 320px;
+  height: 40vh;
+}
+
+.item-1-1{
+  height: 320px;
+  height: 40vh;
+  width:53%;
+  border:solid thin green;
+  background-image: url("../images/index_images/Back_2_Church_2.jpg");
+
+  /*background-image: url("images/index_images/Back_2_Church_2.jpg");*/
+}
+
+.item-1-1{
+}
+
+.item-sub{
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+
+.item-part{
+  width:33%;
+  border-top:solid thin red;
+  display:inline-block;
+  vertical-align: bottom;
+  padding-top:
+}
